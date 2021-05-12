@@ -7,7 +7,7 @@ Supports to inputs, functions, and loops are under development.
 
 Like a real compiler, it consists of lexer, parser, and interpreter. It also simulates the Call Stack.
 
-The main data structures used are stacks, tables, and Abstract Syntax Tree.
+The main data structures used are stacks, tables, and Abstract Syntax Tree. A context-free grammar is developed for the purpose of understanding Pascal.
 
 A set of Unittest cases are also provided. These cases are not complete, they were used during development for a few features.
 
